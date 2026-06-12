@@ -1,0 +1,1 @@
+# AdoApps---FoodScanner.tsx
